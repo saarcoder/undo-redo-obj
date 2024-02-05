@@ -1,0 +1,23 @@
+{
+  "name": "undo-redo-obj",
+  "version": "1.0.0",
+  "description": "Get and set object state, revert changes, undo reverts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saarcoder/undo-redo-obj.git"
+  },  
+  "keywords": [],
+  "author": "Alex Kimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saarcoder/undo-redo-obj/issues"
+  },
+  "homepage": "https://github.com/saarcoder/undo-redo-obj",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }  
+}
